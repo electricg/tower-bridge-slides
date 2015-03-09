@@ -20,3 +20,18 @@ It's a tool for making computers that can sense and control more of the physical
 * A lot of ideas, code, libraries, components available
 
 ## Who
+
+
+
+arduino setup and loop
+
+
+
+
+links to stuff
+page of presentation
+cats? animals?
+use github pages for the slides
+put a visual indicator of time on computer or smartphone
+put notes on smartphone to read during to talk
+why arduino

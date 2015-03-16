@@ -30,7 +30,6 @@ arduino setup and loop
 
 links to stuff
 page of presentation
-cats? animals?
 use github pages for the slides
 put a visual indicator of time on computer or smartphone
 put notes on smartphone to read during to talk
